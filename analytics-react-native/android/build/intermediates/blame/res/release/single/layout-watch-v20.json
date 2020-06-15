@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

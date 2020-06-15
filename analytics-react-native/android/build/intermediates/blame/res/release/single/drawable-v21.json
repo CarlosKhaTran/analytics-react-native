@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/54784c41ead16616cb91219d420f9f67/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/khatran/Desktop/Working/legacyoflove/node_modules/@segment/analytics-react-native/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/khatran/.gradle/caches/transforms-2/files-2.1/87a198a4c4944830c6f9aa789825c6a5/res/drawable-v21/notification_action_background.xml"
+    }
+]
